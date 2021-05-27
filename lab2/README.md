@@ -1,3 +1,5 @@
+
+
 ### EXERCISE 1:
 
 | Test Case | Expected Results | Actual Results | Verdict (Pass, Fail,Inconclusive) |
