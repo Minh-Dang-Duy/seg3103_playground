@@ -32,3 +32,10 @@ this is a capture after implement and test for 20 test case (16 to 20 expepect I
 Parameterized tests in DateNextDateOkText using stream arguments. It was tested and no error detech
 
 ![after compile and run the tests](assets/exercise2_test.JPG)
+
+Here is my code for OK Test
+![after compile and run the tests](assets/exercise2_test.JPG)
+
+And Here is the code for exception test
+
+![after compile and run the tests](assets/exercise2_test.JPG)
