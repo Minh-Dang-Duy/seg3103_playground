@@ -34,8 +34,8 @@ Parameterized tests in DateNextDateOkText using stream arguments. It was tested 
 ![after compile and run the tests](assets/exercise2_test.JPG)
 
 Here is my code for OK Test
-![after compile and run the tests](assets/exercise2_test.JPG)
+![after compile and run the tests](assets/nextdateok_code.JPG)
 
 And Here is the code for exception test
 
-![after compile and run the tests](assets/exercise2_test.JPG)
+![after compile and run the tests](assets/nextdate_exception_code.JPG)
